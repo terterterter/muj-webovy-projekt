@@ -1,27 +1,21 @@
----
-title: Home
----
+# Hra o trůny
 
-# Hello World! (It works!)
+**Ve svém projektu bych se chtěla zaměřit na seriálovou i knižní podobu Her o trůny, trochu ji rozebrat a představit nezasvěceným.**
 
-This are the contents of the Hugo start website front page.
 
-## Something to read: Sonnet LXVI.
+Hra o trůny je americký fantasy seriál vysílaný na stanici HBO, jehož tvůrci David Benioff a D. B. Weiss vychází z knižní fantasy ságy Píseň ledu a ohně od Geroge R. R. Martina. Martin začal psát tuhle zatím nedokončenou ságu už v roce 1991, původně se mělo jednat o trilogii. 
 
-> *Tired with all these, for restful death I cry,  
-> As to behold desert a beggar born,  
-> And needy nothing trimm'd in jollity,  
-> And purest faith unhappily forsworn,  
-> And gilded honour shamefully misplaced,  
-> And maiden virtue rudely strumpeted,  
-> And right perfection wrongfully disgraced,  
-> And strength by limping sway disabled  
-> And art made tongue-tied by authority,  
-> And folly, doctor-like, controlling skill,  
-> And simple truth miscalled simplicity,  
-> And captive good attending captain ill:  
-> Tired with all these, from these would I be gone,  
-> Save that, to die, I leave my love alone.*
-> 
-> William Shakespeare
 
+Ve svém projektu bych se chtěla věnovat hlavním postavám a rodům, ději, rozdílům mezi knížkami a seriálem, zajímavostem z natáčení, ...
+
+
+V sedmi královstvích Západozemí mezi sebou soupeří mocné starobylé rody o moc. Za Úzkým mořem ve Východních zemí se však Daenerys, poslední svého rodu, snaží získat armádu, aby získala svůj právoplatný trůn. Pravá hrozba však číhá na severu...  
+Seriál (i knižní série) plná intrik, zvratů a zrad. 
+
+**Zdroje**   
+https://www.serialzone.cz/serial/hra-o-truny/   
+https://www.edna.cz/game-of-thrones/popis/  
+https://www.imdb.com/title/tt0944947/
+
+
+**Odkaz na web na Netlify**
