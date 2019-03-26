@@ -18,4 +18,5 @@ https://www.edna.cz/game-of-thrones/popis/
 https://www.imdb.com/title/tt0944947/
 
 
-**Odkaz na web na Netlify**
+**Odkaz na web na Netlify**  
+https://practical-johnson-b4706e.netlify.com/
